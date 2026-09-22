@@ -1,0 +1,210 @@
+EMPLOYEE ATTENDANCE & SALARY SUMMARY REPORT
+=======================================================
+
+Name           Attendance %   Total Salary   Status
+-------------------------------------------------------
+Divya Kumar    69.23          Rs.43674.0     Below Threshold
+Karthik Verma  46.15          Rs.53026.0     Below Threshold
+Ravi Rao       65.38          Rs.58118.0     Below Threshold
+Neha Menon     88.46          Rs.44696.0     OK
+Vishal Raj     57.69          Rs.56446.0     Below Threshold
+Vikram Iyer    76.92          Rs.32448.0     OK
+Manoj Rao      80.77          Rs.42710.0     OK
+Sanjay Gupta   84.62          Rs.33539.0     OK
+Swathi Joshi   61.54          Rs.29933.0     Below Threshold
+Meena Pillai   46.15          Rs.41381.0     Below Threshold
+Manoj Raj      80.77          Rs.39784.0     OK
+Kavya Menon    69.23          Rs.31554.0     Below Threshold
+Neha Verma     57.69          Rs.59794.0     Below Threshold
+Vikram Singh   65.38          Rs.46627.0     Below Threshold
+Meena Joshi    76.92          Rs.54290.0     OK
+Suresh Menon   76.92          Rs.44559.0     OK
+Manoj Singh    53.85          Rs.43859.0     Below Threshold
+Meena Verma    69.23          Rs.57577.0     Below Threshold
+Kavya Menon    100.0          Rs.58093.0     OK
+Anita Joshi    53.85          Rs.40359.0     Below Threshold
+Swathi Rao     84.62          Rs.58674.0     OK
+Neha Joshi     50.0           Rs.46236.0     Below Threshold
+Divya Raj      57.69          Rs.54735.0     Below Threshold
+Vikram Gupta   100.0          Rs.35348.0     OK
+Ajay Patel     53.85          Rs.51379.0     Below Threshold
+Neha Pillai    38.46          Rs.51868.0     Below Threshold
+Ravi Rao       73.08          Rs.41067.0     Below Threshold
+Meena Patel    46.15          Rs.57599.0     Below Threshold
+Neha Pillai    53.85          Rs.58023.0     Below Threshold
+Vikram Gupta   88.46          Rs.41130.0     OK
+Sneha Reddy    80.77          Rs.58961.0     OK
+Divya Menon    46.15          Rs.47156.0     Below Threshold
+Vishal Gupta   65.38          Rs.26221.0     Below Threshold
+Anita Menon    42.31          Rs.47404.0     Below Threshold
+Ajay Menon     96.15          Rs.40540.0     OK
+Vishal Patel   65.38          Rs.60871.0     Below Threshold
+Arjun Rao      88.46          Rs.53094.0     OK
+Deepa Nair     42.31          Rs.31824.0     Below Threshold
+Manoj Verma    50.0           Rs.43545.0     Below Threshold
+Arjun Gupta    53.85          Rs.54523.0     Below Threshold
+Vikram Nair    46.15          Rs.55166.0     Below Threshold
+Anita Singh    38.46          Rs.33737.0     Below Threshold
+Priya Reddy    96.15          Rs.43508.0     OK
+Anita Iyer     38.46          Rs.53586.0     Below Threshold
+Sanjay Raj     96.15          Rs.37394.0     OK
+Sneha Menon    42.31          Rs.45927.0     Below Threshold
+Anita Patel    100.0          Rs.61682.0     OK
+Anita Gupta    57.69          Rs.30240.0     Below Threshold
+Meena Reddy    65.38          Rs.28354.0     Below Threshold
+Deepa Singh    100.0          Rs.48733.0     OK
+Arjun Singh    76.92          Rs.43642.0     OK
+Manoj Iyer     73.08          Rs.58714.0     Below Threshold
+Suresh Kumar   50.0           Rs.32051.0     Below Threshold
+Ajay Raj       80.77          Rs.32133.0     OK
+Kavya Raj      92.31          Rs.44825.0     OK
+Neha Raj       50.0           Rs.36800.0     Below Threshold
+Divya Rao      53.85          Rs.46223.0     Below Threshold
+Swathi Menon   76.92          Rs.41342.0     OK
+Ajay Nair      42.31          Rs.35923.0     Below Threshold
+Vikram Kumar   76.92          Rs.36573.0     OK
+Priya Verma    88.46          Rs.26758.0     OK
+Suresh Verma   42.31          Rs.50696.0     Below Threshold
+Deepa Iyer     73.08          Rs.49272.0     Below Threshold
+Kavya Menon    65.38          Rs.35861.0     Below Threshold
+Neha Joshi     53.85          Rs.42389.0     Below Threshold
+Priya Reddy    57.69          Rs.51645.0     Below Threshold
+Meena Raj      50.0           Rs.50445.0     Below Threshold
+Pooja Menon    92.31          Rs.51290.0     OK
+Meena Menon    61.54          Rs.54863.0     Below Threshold
+Vikram Joshi   69.23          Rs.52512.0     Below Threshold
+Neha Sharma    50.0           Rs.43993.0     Below Threshold
+Vishal Raj     50.0           Rs.57604.0     Below Threshold
+Rohan Reddy    100.0          Rs.37078.0     OK
+Vishal Menon   42.31          Rs.53577.0     Below Threshold
+Ajay Pillai    61.54          Rs.53744.0     Below Threshold
+Suresh Singh   76.92          Rs.36542.0     OK
+Ajay Raj       88.46          Rs.50876.0     OK
+Sneha Gupta    61.54          Rs.57054.0     Below Threshold
+Priya Patel    73.08          Rs.51612.0     Below Threshold
+Sneha Raj      88.46          Rs.51368.0     OK
+Sanjay Nair    61.54          Rs.64125.0     Below Threshold
+Priya Singh    73.08          Rs.62530.0     Below Threshold
+Suresh Joshi   73.08          Rs.41972.0     Below Threshold
+Karthik Kumar  65.38          Rs.56888.0     Below Threshold
+Sanjay Reddy   61.54          Rs.55789.0     Below Threshold
+Manoj Menon    38.46          Rs.36860.0     Below Threshold
+Meena Iyer     100.0          Rs.55819.0     OK
+Neha Menon     92.31          Rs.38988.0     OK
+Ajay Gupta     76.92          Rs.58879.0     OK
+Neha Nair      96.15          Rs.57495.0     OK
+Meena Joshi    69.23          Rs.64788.0     Below Threshold
+Meena Raj      46.15          Rs.46350.0     Below Threshold
+Vikram Sharma  46.15          Rs.35568.0     Below Threshold
+Meena Reddy    53.85          Rs.39771.0     Below Threshold
+Deepa Reddy    92.31          Rs.52623.0     OK
+Arjun Joshi    84.62          Rs.30780.0     OK
+Pooja Kumar    73.08          Rs.55433.0     Below Threshold
+Neha Verma     65.38          Rs.59621.0     Below Threshold
+Vikram Reddy   38.46          Rs.54234.0     Below Threshold
+Manoj Verma    92.31          Rs.33364.0     OK
+Manoj Patel    38.46          Rs.35376.0     Below Threshold
+Karthik Joshi  57.69          Rs.31295.0     Below Threshold
+Manoj Sharma   92.31          Rs.50170.0     OK
+Manoj Raj      69.23          Rs.35992.0     Below Threshold
+Ravi Verma     42.31          Rs.50560.0     Below Threshold
+Suresh Pillai  42.31          Rs.29658.0     Below Threshold
+Arjun Joshi    53.85          Rs.42133.0     Below Threshold
+Pooja Singh    61.54          Rs.58476.0     Below Threshold
+Kavya Iyer     50.0           Rs.39107.0     Below Threshold
+Divya Patel    73.08          Rs.54096.0     Below Threshold
+Arjun Rao      65.38          Rs.35053.0     Below Threshold
+Swathi Pillai  42.31          Rs.52629.0     Below Threshold
+Kavya Rao      76.92          Rs.30704.0     OK
+Pooja Rao      80.77          Rs.56629.0     OK
+Deepa Iyer     100.0          Rs.48325.0     OK
+Sanjay Reddy   69.23          Rs.48747.0     Below Threshold
+Suresh Raj     65.38          Rs.59955.0     Below Threshold
+Rohan Kumar    76.92          Rs.42542.0     OK
+Arjun Sharma   76.92          Rs.46327.0     OK
+Neha Kumar     61.54          Rs.33235.0     Below Threshold
+Deepa Nair     65.38          Rs.61826.0     Below Threshold
+Sanjay Pillai  46.15          Rs.46908.0     Below Threshold
+Manoj Verma    73.08          Rs.54809.0     Below Threshold
+Neha Gupta     88.46          Rs.50803.0     OK
+Sanjay Raj     69.23          Rs.41233.0     Below Threshold
+Arjun Sharma   57.69          Rs.39802.0     Below Threshold
+Pooja Raj      100.0          Rs.44671.0     OK
+Arjun Raj      80.77          Rs.40134.0     OK
+Ravi Verma     53.85          Rs.43352.0     Below Threshold
+Anita Gupta    53.85          Rs.58295.0     Below Threshold
+Ravi Patel     96.15          Rs.61623.0     OK
+Rohan Iyer     69.23          Rs.57433.0     Below Threshold
+Suresh Reddy   46.15          Rs.30013.0     Below Threshold
+Karthik Pillai 73.08          Rs.33207.0     Below Threshold
+Divya Gupta    65.38          Rs.63747.0     Below Threshold
+Sanjay Nair    88.46          Rs.45388.0     OK
+Swathi Verma   61.54          Rs.41829.0     Below Threshold
+Suresh Iyer    57.69          Rs.31794.0     Below Threshold
+Ravi Reddy     96.15          Rs.44462.0     OK
+Meena Raj      73.08          Rs.55505.0     Below Threshold
+Meena Raj      61.54          Rs.53986.0     Below Threshold
+Neha Menon     53.85          Rs.43908.0     Below Threshold
+Suresh Kumar   73.08          Rs.49164.0     Below Threshold
+Divya Nair     73.08          Rs.54378.0     Below Threshold
+Ajay Gupta     92.31          Rs.30646.0     OK
+Deepa Verma    69.23          Rs.27445.0     Below Threshold
+Meena Singh    38.46          Rs.43037.0     Below Threshold
+Priya Nair     92.31          Rs.45104.0     OK
+Vishal Reddy   96.15          Rs.36604.0     OK
+Kavya Reddy    76.92          Rs.33730.0     OK
+Rohan Reddy    96.15          Rs.48388.0     OK
+Neha Kumar     46.15          Rs.48612.0     Below Threshold
+Rohan Rao      100.0          Rs.30325.0     OK
+Deepa Kumar    100.0          Rs.54334.0     OK
+Sanjay Pillai  61.54          Rs.44001.0     Below Threshold
+Sneha Nair     96.15          Rs.32957.0     OK
+Swathi Pillai  57.69          Rs.45365.0     Below Threshold
+Neha Reddy     65.38          Rs.37685.0     Below Threshold
+Divya Singh    96.15          Rs.47127.0     OK
+Deepa Joshi    96.15          Rs.46223.0     OK
+Neha Iyer      61.54          Rs.59808.0     Below Threshold
+Suresh Raj     76.92          Rs.61275.0     OK
+Ravi Raj       73.08          Rs.58589.0     Below Threshold
+Sanjay Gupta   80.77          Rs.51286.0     OK
+Sanjay Sharma  65.38          Rs.52723.0     Below Threshold
+Deepa Kumar    96.15          Rs.54484.0     OK
+Karthik Nair   53.85          Rs.61668.0     Below Threshold
+Divya Joshi    50.0           Rs.64718.0     Below Threshold
+Ravi Verma     88.46          Rs.35866.0     OK
+Pooja Pillai   76.92          Rs.51799.0     OK
+Rohan Joshi    84.62          Rs.51377.0     OK
+Neha Kumar     46.15          Rs.43760.0     Below Threshold
+Meena Verma    88.46          Rs.32576.0     OK
+Sanjay Iyer    73.08          Rs.27272.0     Below Threshold
+Rohan Pillai   73.08          Rs.52617.0     Below Threshold
+Deepa Iyer     100.0          Rs.53879.0     OK
+Priya Iyer     84.62          Rs.46408.0     OK
+Vishal Iyer    92.31          Rs.46894.0     OK
+Vikram Singh   92.31          Rs.45725.0     OK
+Suresh Nair    73.08          Rs.55807.0     Below Threshold
+Sanjay Joshi   61.54          Rs.55836.0     Below Threshold
+Divya Menon    80.77          Rs.47765.0     OK
+Ravi Joshi     84.62          Rs.42988.0     OK
+Vishal Joshi   42.31          Rs.60928.0     Below Threshold
+Meena Patel    65.38          Rs.40460.0     Below Threshold
+Karthik Singh  42.31          Rs.50496.0     Below Threshold
+Anita Patel    53.85          Rs.34281.0     Below Threshold
+Rohan Verma    57.69          Rs.39659.0     Below Threshold
+Neha Sharma    100.0          Rs.44735.0     OK
+Vikram Joshi   73.08          Rs.48323.0     Below Threshold
+Sanjay Rao     65.38          Rs.55169.0     Below Threshold
+Suresh Pillai  38.46          Rs.43456.0     Below Threshold
+Sanjay Sharma  69.23          Rs.54095.0     Below Threshold
+Divya Singh    96.15          Rs.30390.0     OK
+Swathi Menon   46.15          Rs.58801.0     Below Threshold
+Deepa Rao      42.31          Rs.30813.0     Below Threshold
+Pooja Rao      65.38          Rs.38390.0     Below Threshold
+Sanjay Sharma  88.46          Rs.40001.0     OK
+Divya Joshi    88.46          Rs.43708.0     OK
+Kavya Menon    92.31          Rs.44598.0     OK
+
+-------------------------------------------------------
+Total Employees Processed: 200
+Employees Below 75% Attendance: 124
+Names (first 20 shown): Divya Kumar, Karthik Verma, Ravi Rao, Vishal Raj, Swathi Joshi, Meena Pillai, Kavya Menon, Neha Verma, Vikram Singh, Manoj Singh, Meena Verma, Anita Joshi, Neha Joshi, Divya Raj, Ajay Patel, Neha Pillai, Ravi Rao, Meena Patel, Neha Pillai, Divya Menon ... and 104 more
